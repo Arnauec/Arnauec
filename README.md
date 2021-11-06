@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arnauec, from Barcelona!
+- 👋 Hi, I’m @Arnauec, Arnau Estebanell and I'm currently based in Barcelona!
 - 👀 I’m interested in cybersecurity in general, with an special focus on application security and DevSecOps processes.
 - 🌱 I’m currently learning security automation in the CI/CD pipeline.
 - 💞️ I’m looking to collaborate on non-profit cybersecurity organisations.
